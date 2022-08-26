@@ -3,7 +3,7 @@ layout: articles
 #articles:
   #excerpt_type: html
 ---
-## Suntrise 的主页
+
 ### 项目
 * [YesMyFault(蓝屏生成器）](https://suntrise.github.io/yesmyfault)
 * [伪本地化翻译器 Demo](https://suntrise.github.io/pseudo)
