@@ -1,5 +1,11 @@
 header:
   - titles:
+      en      : &EN       Blogs
+      zh      : &EN       博客
+    
+    url: /blogs.html
+      
+  - titles:  
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
