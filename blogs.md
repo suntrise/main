@@ -14,15 +14,8 @@ titles:
   zh-Hant : &ZH_HANT  
   zh-TW   : *ZH_HANT
   zh-HK   : *ZH_HANT
-  ko      : &KO       
-  ko-KR   : *KO
-  fr      : &FR       
-  fr-BE   : *FR
-  fr-CA   : *FR
-  fr-CH   : *FR
-  fr-FR   : *FR
-  fr-LU   : *FR
   # @end locale config
 ---
 
-## Blogs
+## 博客
+博客先在“归档”中查看，稍后博客目录会在此处显示。
