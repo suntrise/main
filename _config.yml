@@ -103,8 +103,8 @@ sources: # bootcdn (default), unpkg
 
 ## => Sharing
 ##############################
-sharing: true
-  provider: addtoany # false (default), "addtoany", "addthis", "custom"
+sharing: 
+  provider: false # false (default), "addtoany", "addthis", "custom"
 
   ## AddThis
   addthis:
@@ -114,7 +114,7 @@ sharing: true
 ## => Comments
 ##############################
 comments:
-  provider: gitalk false # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: gitalk # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
