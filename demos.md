@@ -9,8 +9,3 @@ titles: 一些小项目
 
    [Windows 8 OOBE](https://suntrise.github.io/Win8OOBE.html) , [Windows 10 OOBE](https://suntrise.github.io/Win10OOBE.html)
 * [一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包](https://suntrise.github.io/happydos.tgz) by [IAmREGE](https://github.com/IAmREGE)
-
-### 支持或联系
-页面有问题？查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[联系支持人员](https://support.github.com/contact)，我们将帮助您解决问题。
-
-# [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
