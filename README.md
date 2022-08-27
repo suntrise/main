@@ -10,7 +10,7 @@
 ### 支持或联系
 页面有问题？查看我们的[文档](https://docs.github.com/categories/github-pages-basics/)或[联系支持人员](https://support.github.com/contact)，我们将帮助您解决问题。
 
-# [网站基于 TeXt Theme 设计](https://github.com/kitian616/jekyll-TeXt-theme)
+# [本网站基于 TeXt Theme ](https://github.com/kitian616/jekyll-TeXt-theme)
 
 [![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
 [![Gem Version](https://img.shields.io/gem/v/jekyll-text-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/releases)
