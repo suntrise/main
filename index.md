@@ -9,7 +9,7 @@ layout: home
 
 
 ### 项目：
-* [YesMyFault(蓝屏生成器）](https://suntrise.github.io/yesmyfault)
+* [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault)
 * [伪本地化翻译器 Demo](https://suntrise.github.io/pseudo)
 * 模拟一些 Windows 系统 OOBE 的最后部署阶段的加载动画（可以当成屏保）
 
