@@ -1,5 +1,5 @@
 ---
-layout: articles
+layout: article
 titles: 一些小项目
 ---
 
