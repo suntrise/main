@@ -7,15 +7,6 @@ header:
       zh-SG   : *ZH_HANS
       
     url: https://github.com/suntrise/suntrise.github.io
-     
-  - titles:
-      en      : &EN       Blogs
-      zh-Hans : &ZH_HANS  博客
-      zh      : *ZH_HANS
-      zh-CN   : *ZH_HANS
-      zh-SG   : *ZH_HANS
-      
-    url: /blogs.html
     
   - titles:
       en      : &EN       Demos
@@ -25,6 +16,14 @@ header:
       zh-SG   : *ZH_HANS
       
     url: /demos.html
+  - titles:
+      en      : &EN       Blogs
+      zh-Hans : &ZH_HANS  博客
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      
+    url: /blogs.html
       
   - titles:  
       # @start locale config
