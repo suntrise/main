@@ -1,6 +1,17 @@
 ---
 layout: article
-titles: 一些小项目
+titles:
+  # @start locale config
+  en      : &EN       Some Demos
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  一些小项目
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  # @end locale config
 ---
 
 * [YesMyFault(蓝屏生成器）](https://suntrise.github.io/yesmyfault)
