@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About
+  en      : &EN       About TeXt Theme
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
