@@ -26,6 +26,9 @@ titles:
 key: page-about
 ---
 
+官网：[https://tianqi.name/jekyll-TeXt-theme/](https://tianqi.name/jekyll-TeXt-theme)
+Github：[https://github.com/kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
+
 ![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
 
 TeXt 是针对个人或团队网站、博客、项目、文档等的一款高度可定制的 Jekyll 主题。它参考了 iOS 11 的风格，有大而突出的标题和圆润的按钮及卡片。
