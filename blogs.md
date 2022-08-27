@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: 我的博客
+title: 文章列表
 
 articles:
   data_source: site.posts
