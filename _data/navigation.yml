@@ -1,13 +1,22 @@
 header:
-- titles:
+  - titles:
       en      : &EN       Github
-      zh-Hans : &ZH_HANS  Github
+      zh-Hans : &ZH_HANS  编辑
       zh      : *ZH_HANS
       zh-CN   : *ZH_HANS
       zh-SG   : *ZH_HANS
       
     url: https://github.com/suntrise/suntrise.github.io
+     
+  - titles:
+      en      : &EN       Blogs
+      zh-Hans : &ZH_HANS  博客
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
       
+    url: /blogs.html
+    
   - titles:
       en      : &EN       Demos
       zh-Hans : &ZH_HANS  项目
