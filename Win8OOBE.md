@@ -12,7 +12,6 @@ titles:
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
   # @end locale config
-key: page-about
 ---
 
 ## 网站已迁移到[https://suntrise.github.io/suntrise/Win8OOBE.html](https://suntrise.github.io/suntrise/Win8OOBE.html)
