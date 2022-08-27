@@ -1,10 +1,11 @@
 ---
 layout: articles
-title: Articles - Item (Excerpt + Read More + Info)
+title: 我的博客
+
 articles:
   data_source: site.posts
   show_cover: false
-  show_excerpt: true
+  show_excerpt: false
   show_readmore: true
   show_info: true
 ---
