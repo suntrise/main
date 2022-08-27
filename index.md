@@ -22,3 +22,7 @@ title: 这里是 Suntrise 的主页
 Github：[https://github.com/suntrise](https://github.com/suntrise)
 
 Bilibili：[STR-BSOD](https://space.bilibili.com/451475014)
+
+[磁贴模式（仿 Win8 开始屏幕）](https://github.com/suntrise)
+
+
