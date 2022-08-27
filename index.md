@@ -5,6 +5,7 @@ layout: home
 ---
 
 ## 这里是 Suntrise 的主页
+Github 主页：[https://github.com/suntrise](https://github.com/suntrise)
 
 ### 项目
 * [YesMyFault(蓝屏生成器）](https://suntrise.github.io/yesmyfault)
