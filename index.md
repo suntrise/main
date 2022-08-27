@@ -4,7 +4,9 @@ layout: home
   #excerpt_type: html
 ---
 
+
 ## 这里是 Suntrise 的主页
+
 
 ### 项目：
 * [YesMyFault(蓝屏生成器）](https://suntrise.github.io/yesmyfault)
@@ -14,8 +16,10 @@ layout: home
    [Windows 8 OOBE](https://suntrise.github.io/Win8OOBE.html) , [Windows 10 OOBE](https://suntrise.github.io/Win10OOBE.html)
 * [一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包](https://suntrise.github.io/happydos.tgz) by [IAmREGE](https://github.com/IAmREGE)
 
+
 ### 博客
-点击顶栏上的“博客”已查看我的个人博客
+点击顶栏上的“博客”查看我的个人博客
+
 
 ### 联系
 Github：[https://github.com/suntrise](https://github.com/suntrise)
