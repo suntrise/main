@@ -2,88 +2,101 @@
 layout: page
 ---
 
-{%- assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source -%}
+{%- if paginator.total_pages > 1 -%}
+  <div class="pagination">
 
-{%- if _page_articles_data_source -%}
-{%- assign _keys = _page_articles_data_source | split: '.' -%}
-{%- endif -%}
+    {%- include snippets/get-locale-string.html key='STATISTICS' -%}
+    {%- assign _locale_statistics = __return -%}
 
-{%- assign _articles = nil -%}
-{%- for _key in _keys -%}
-  {%- if forloop.first -%}
-    {%- case _key -%}
-      {%- when 'site' -%}
-        {%- assign _articles = site -%}
-      {%- when 'page' -%}
-        {%- assign _articles = page -%}
-      {%- when 'layout' -%}
-        {%- assign _articles = layout -%}
-      {%- when 'paginator' -%}
-        {%- assign _articles = paginator -%}
-      {%- else -%}
-        {%- assign _articles = site[_key] -%}
-      {%- else -%}
-    {%- endcase -%}
-  {%- else -%}
-    {%- assign _articles = _articles[_key] -%}
-  {%- endif -%}
-{%- endfor -%}
+    {%- assign _post_count = site.posts | size -%}
+    {%- assign _page_count = paginator.total_pages -%}
+    <p>{{ _locale_statistics | replace: '[POST_COUNT]', _post_count | replace: '[PAGE_COUNT]', _page_count }}</p>
+    <div class="pagination__menu">
+      <ul class="menu menu--nowrap">
+        {%- assign _max_show = 5 -%}
+        {%- assign _max_show_modulo_two = _max_show | modulo: 2 -%}
+        {%- assign _length = paginator.total_pages -%}
+        {%- assign _length_mimus_one = _length | minus: 1 -%}
+        {%- assign _cur = paginator.page -%}
+        {%- assign _extra = _max_show | minus: 3 -%}
+        {%- assign _extra_half = _extra | divided_by: 2 -%}
 
-{%- assign _type = page.articles.type | default: layout.articles.type -%}
+        {%- if  _max_show > 4 and _max_show_modulo_two == 1 and paginator.total_pages > _max_show -%}
+          {%- assign _condition0 = _extra | divided_by: 2 | plus: 1 -%}
+          {%- assign _condition1 = _length | minus: _extra_half  -%}
+          {%- if _cur <= _condition0 -%}
+            {%- assign _n0 = 2 -%}
+            {%- assign _n1 = _extra | plus: 2 -%}
+          {%- elsif _cur >= _condition1 -%}
+            {%- assign _n0 = _length | minus: _extra | minus: 1 -%}
+            {%- assign _n1 = _length | minus: 1 -%}
+          {%- else -%}
+            {%- assign _n0 = _cur | minus: _extra_half -%}
+            {%- assign _n1 = _cur | plus: _extra_half -%}
+          {%- endif -%}
+        {%- endif -%}
 
-{%- if _articles -%}
+        {%- if paginator.previous_page -%}
+          {%- include snippets/prepend-baseurl.html path=paginator.previous_page_path -%}
+          {%- assign _href = __return -%}
+          <li><a class="button button--secondary button--circle" href="{{ _href }}">
+            <i class="fas fa-angle-left"></i>
+          </a></li>
+        {%- else -%}
+          <li><div class="button button--secondary button--circle disabled">
+            <i class="fas fa-angle-left"></i>
+          </div></li>
+        {%- endif -%}
 
-  <div class="layout--articles">
+        {%- for page in (1.._length) -%}
+          {%- if page == _cur -%}
+            <li>
+              <div class="button button--primary button--circle focus"><span>{{ page }}</span></div>
+            </li>
 
-    {%- if _type == 'grid' -%}
-      {%- if page.articles.size == 'sm' -%}
-        {%- include article-list.html articles=_articles type='grid' size='sm' -%}
-      {%- else -%}
-        {%- include article-list.html articles=_articles type='grid' -%}
-      {%- endif -%}
+          {%- elsif page == 1 -%}
+            {%- assign _home_path = site.paths.home | default: site.data.variables.default.paths.home -%}
+            {%- include snippets/prepend-baseurl.html path=_home_path -%}
+            {%- assign _href = __return -%}
+            <li>
+              <a class="button button--secondary button--circle" href="{{ _href }}"><span>{{ page }}</span></a>
+            </li>
 
-    {%- elsif _type == 'brief' -%}
-      {%- include snippets/assign.html
-        target=site.data.variables.default.page.articles.show_info
-        source0=layout.articles.show_info source1=page.articles.show_info -%}
-      {%- assign _show_info = __return -%}
+          {%- else -%}
+            {%- if _n0 and _n1 -%}
+              {%- if page > 1 and page < _n0 -%}
+                {%- if page == 2 -%}<li><span class="pagination__omit"><i class="fas fa-ellipsis-h"></i></span></li>{%- endif -%}
+              {%- elsif page > _n1 and page < _length -%}
+                {%- if page == _length_mimus_one -%}<li><span class="pagination__omit"><i class="fas fa-ellipsis-h"></i></span></li>{%- endif -%}
+              {%- else -%}
+                {%- include snippets/prepend-baseurl.html path=site.paginate_path -%}
+                {%- assign _href = __return -%}
+                <li>
+                  <a class="button button--secondary button--circle" href="{{ _href | replace: ':num', page }}"><span>{{ page }}</span></a>
+                </li>
+              {%- endif -%}
+            {%- else -%}
+              {%- include snippets/prepend-baseurl.html path=site.paginate_path -%}
+              {%- assign _href = __return -%}
+              <li>
+                <a class="button button--secondary button--circle" href="{{ _href | replace: ':num', page }}"><span>{{ page }}</span></a>
+              </li>
+            {%- endif -%}
+          {%- endif -%}
+        {%- endfor -%}
 
-      {%- include article-list.html articles=_articles type='brief' show_info=_show_info -%}
-
-    {%- else -%}
-      {%- include snippets/assign.html
-        target=site.data.variables.default.page.articles.show_cover
-        source0=layout.articles.show_cover source1=page.articles.show_cover -%}
-      {%- assign _show_cover = __return -%}
-
-      {%- include snippets/assign.html
-        target=site.data.variables.default.page.articles.show_excerpt
-        source0=layout.articles.show_excerpt source1=page.articles.show_excerpt -%}
-      {%- assign _show_excerpt = __return -%}
-
-      {%- include snippets/assign.html
-        target=site.data.variables.default.page.articles.show_readmore
-        source0=layout.articles.show_readmore source1=page.articles.show_readmore -%}
-      {%- assign _show_readmore = __return -%}
-
-      {%- include snippets/assign.html
-        target=site.data.variables.default.page.articles.show_info
-        source0=layout.articles.show_info source1=page.articles.show_info -%}
-      {%- assign _show_info = __return -%}
-
-      {%- assign _article_type = page.articles.article_type | default: layout.articles.article_type -%}
-      {%- assign _cover_size = page.articles.cover_size | default: layout.articles.cover_size -%}
-      {%- assign _excerpt_type = page.articles.excerpt_type | default: layout.articles.excerpt_type -%}
-
-      {%- include article-list.html articles=_articles type='item'
-        article_type=_article_type
-        show_cover=_show_cover cover_size=_cover_size
-        show_excerpt=_show_excerpt excerpt_type=_excerpt_type
-        show_readmore=_show_readmore show_info=_show_info -%}
-
-    {%- endif -%}
-
+        {%- if paginator.next_page -%}
+          {%- include snippets/prepend-baseurl.html path=paginator.next_page_path -%}
+          {%- assign _href = __return -%}
+          <li><a class="button button--secondary button--circle" href="{{ _href }}">
+            <i class="fas fa-angle-right"></i>
+          </a></li>
+        {%- else -%}
+          <li><div class="button button--secondary button--circle disabled">
+            <i class="fas fa-angle-right"></i>
+          </div></li>
+        {%- endif -%}
+      </ul>
+    </div>
   </div>
 {%- endif -%}
-
-{{ content }}
