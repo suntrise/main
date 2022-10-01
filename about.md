@@ -2,12 +2,12 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       About TeXt Theme
+  en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于 TeXt 主题
+  zh-Hans : &ZH_HANS  关于
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
@@ -25,6 +25,11 @@ titles:
   # @end locale config
 key: page-about
 ---
+
+## 关于 Suntrise
+Suntrise（Also STR）
+
+## 关于 Text Theme
 
 官网：[https://tianqi.name/jekyll-TeXt-theme/](https://tianqi.name/jekyll-TeXt-theme)
 Github：[https://github.com/kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
