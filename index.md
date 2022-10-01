@@ -4,8 +4,7 @@ title:
 #articles:
   #excerpt_type: html
 ---
-  <center><div id="ggc"></div></center>
-  <br>
+  <center><div id="ggc"></div></center><br>
   <script type="text/javascript" src="ggc.js"></script>
   
 ### 项目：
