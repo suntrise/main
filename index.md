@@ -4,7 +4,9 @@ title: 这里是 Suntrise 的主页
 #articles:
   #excerpt_type: html
 ---
-
+  <center><div id="ggc"></div></center>
+  <script type="text/javascript" src="ggc.js"></script>
+  
 ### 项目：
 * [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault)
 * [伪本地化翻译器 Demo](https://suntrise.github.io/pseudo)
