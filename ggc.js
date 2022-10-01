@@ -10,5 +10,4 @@ var str=""
 		var i = Math.round(Math.random()*(arr.length-1))
 		str = arr[i]
 		ggc.innerHTML = str;
-
 	}
