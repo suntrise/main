@@ -26,7 +26,6 @@ titles:
 key: page-about
 ---
 
-## 关于 Suntrise
 Suntrise（Also STR）
 
 ## 关于 Text Theme
