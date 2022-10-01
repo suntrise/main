@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: 这里是 Suntrise 的主页
+title: 
 #articles:
   #excerpt_type: html
 ---
