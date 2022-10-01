@@ -8,7 +8,8 @@ var str=""
 		"<h1>The Wow Starts Now.</h1><h3>（Windows Vista 广告语）</h3>",
 		"Your PC, Simplified.（电脑，就这么简单）<h3>（Windows 7 广告语）</h3>",
 		"<h1>Everything at once.（一切精彩尽此时）</h1><h3>（Windows 8 广告语）</h3>",
-		"<h1>Your world on the go.（你的世界，随你走）</h1><h3>（Windows 8 广告语）</h3>"]
+		"<h1>Your world on the go.（你的世界，随你走）</h1><h3>（Windows 8 广告语）</h3>",
+    "坐和放宽"]
 		i = Math.round(Math.random()*(arr.length-1))
 		str = arr[i]
 		ggc.innerHTML = str;
