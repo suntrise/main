@@ -26,9 +26,9 @@ titles:
 key: page-about
 ---
 
-Suntrise（Also STR）
+### Suntrise（Also STR）
 
-## 关于 Text Theme
+### 关于 Text Theme
 
 官网：[https://tianqi.name/jekyll-TeXt-theme/](https://tianqi.name/jekyll-TeXt-theme)
 Github：[https://github.com/kitian616/jekyll-TeXt-theme](https://github.com/kitian616/jekyll-TeXt-theme)
