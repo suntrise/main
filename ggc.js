@@ -11,6 +11,7 @@ var str=""
 		"<h1>Your World On the Go.（你的世界，随你走）</h1><h3>（Windows 8 广告语）</h3>",
 		"<h1>Work. Play. Together.</h1><h3>（Windows 8 广告语）</h3>",
 		"<h1>Life without walls.</h1><h3>（Windows 8 广告语）</h3>",
+		"<h1>Put people first.（以人为本。）</h1><h3>（Windows Phone 7.5 广告语）</h3>",
 		"<h1>Reinvented around you.（为你重新设计）</h1><h3>（Windows Phone 8 广告语）</h3>",
     	"<h1>坐和放宽</h1>"]
 		i = Math.round(Math.random()*(arr.length-1))
