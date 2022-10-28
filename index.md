@@ -35,4 +35,4 @@ zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
 
 ### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles)
 
-
+[![Page Views Count](https://badges.toozhao.com/badges/01GGF86B68XCCFA0HCW29ZGCFK/green.svg)](https://badges.toozhao.com/stats/01GGF86B68XCCFA0HCW29ZGCFK "Get your own page views count badge on badges.toozhao.com")
