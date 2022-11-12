@@ -4,10 +4,10 @@ title:
 #articles:
   #excerpt_type: html
 ---
-  <center id="hitokoto">
-  <h2><a href="#" id="hitokoto_text" style="color: black;">:D 获取中...</a></h2>
+<center id="hitokoto">
+  <h2><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 2px 2px 5px #bcd;">:D 获取中...</a></h2>
   <h3 id="hitokoto_from"></h3>
-  </center>
+</center>
   <br>
   <script type="text/javascript" src="title.js"></script>
   
