@@ -4,9 +4,10 @@ title:
 #articles:
   #excerpt_type: html
 ---
-  <center><div id="ggc"></div></center>
+  <p id="hitokoto"><p id="hitokoto_text">:D 获取中...</p></p>
+  //<center><div id="ggc"></div></center>
   <br>
-  <script type="text/javascript" src="ggc.js"></script>
+  <script type="text/javascript" src="title.js"></script>
   
 ### 项目：
 * [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault)
