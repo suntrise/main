@@ -4,7 +4,7 @@ title:
 #articles:
   #excerpt_type: html
 ---
-  <center id="hitokoto"><h2 id="hitokoto_text"></h2></center>
+  <p id="hitokoto"><p id="hitokoto_text">:D 获取中...</p></p>
   <br>
   <script type="text/javascript" src="title.js"></script>
   
