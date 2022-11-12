@@ -4,7 +4,8 @@ title:
 #articles:
   #excerpt_type: html
 ---
-  <center id="hitokoto"><h2 id="hitokoto_text">:D 获取中...</h2>
+  <center id="hitokoto">
+  <h2><a href="#" id="hitokoto_text" style="color: black;">:D 获取中...</a></h2>
   <h3 id="hitokoto_from"></h3>
   </center>
   <br>
