@@ -33,6 +33,8 @@ zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
 
 [小众软件论坛](https://meta.appinn.net)
 
+[NokiaX](http://nokiax.ysepan.com/)
+
 ### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles)
 
 
