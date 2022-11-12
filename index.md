@@ -40,7 +40,7 @@ zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
 ### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles)
 
 
-顶部金句来源于[https://hitokoto.cn](https://hitokoto.cn)
+顶部金句来源于 [https://hitokoto.cn](https://hitokoto.cn)
 
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GGFBWDY0MAKM9FJNVQGK5WDD/orange.svg)](https://badges.toozhao.com/stats/01GGFBWDY0MAKM9FJNVQGK5WDD "Get your own page views count badge on badges.toozhao.com")
