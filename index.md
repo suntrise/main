@@ -5,7 +5,7 @@ title:
   #excerpt_type: html
 ---
 <center id="hitokoto">
-  <h2><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">我们把世界看错，反说它欺骗了我们。</a></h2>
+  <h2><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h2>
   <h3 id="hitokoto_from"></h3>
 </center>
   <br>
