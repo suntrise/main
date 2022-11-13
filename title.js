@@ -8,7 +8,7 @@
       if(data.from_who == null){
         data.from_who = "";
       }
-      hitokoto.innerText = "『" +data.hitokoto +"』";
+      hitokoto.innerText = "『 " +data.hitokoto +" 』";
       hitokoto_from.innerText = "—— " +data.from_who +"「" +data.from +"」";
     }
   }
