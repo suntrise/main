@@ -26,4 +26,8 @@ titles:
 ---
 
 ### 友情链接
+zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
 
+[小众软件论坛](https://meta.appinn.net)
+
+[NokiaX](http://nokiax.ysepan.com/)
