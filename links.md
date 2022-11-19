@@ -25,7 +25,8 @@ titles:
   # @end locale config
 ---
 
-### 友情链接
+友情链接
+
 zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
 
 [小众软件论坛](https://meta.appinn.net)
