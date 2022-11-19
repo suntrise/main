@@ -30,6 +30,8 @@ Github：[https://github.com/suntrise](https://github.com/suntrise)
 
 Bilibili：[STR-BSOD](https://space.bilibili.com/451475014)
 
+知乎：[SUNTRISE](https://www.zhihu.com/people/suntrise)
+
 
 ### 友情链接
 zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
