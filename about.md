@@ -23,7 +23,6 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
-key: page-about
 ---
 
 <h3>Suntrise（Also STR）</h3>
