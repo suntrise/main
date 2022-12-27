@@ -32,6 +32,15 @@ Bilibili：[STR-BSOD](https://space.bilibili.com/451475014)
 
 知乎：[SUNTRISE](https://www.zhihu.com/people/suntrise)
 
+### [友情链接](https://suntrise.github.io/links.html)
+
+zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
+
+[小众软件论坛](https://meta.appinn.net)
+
+[NokiaX](http://nokiax.ysepan.com/)
+
+<br><br>
 
 ### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles)
 
