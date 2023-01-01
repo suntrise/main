@@ -1,6 +1,11 @@
----
-layout: articles
-title: 网站已迁移
----
+<!DOCTYPE html>
+<html>
 
-## 网站已迁移到 [https://suntrise.github.io/suntrise/Win8OOBE.html](https://suntrise.github.io/suntrise/Win8OOBE.html)
+<head>
+    <meta charset="UTF-8">
+    <title>Windows 8 OOBE</title>
+</head>
+</html>
+<script type="text/javascript">
+    window.location.href = 'https://suntrise.github.io/project/Win8OOBE.html';
+</script>
