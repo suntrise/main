@@ -20,10 +20,13 @@ title:
 * [一个简易的随机数生成器](https://suntrise.github.io/suntrise/random.html)
 * [一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包](https://suntrise.github.io/suntrise/happydos.tgz) by [IAmREGE](https://github.com/IAmREGE)
 
+<br>
 
-### 博客
-点击顶栏上的“博客”查看我的个人博客
+### 博客（可点击顶栏上的“博客”已查看文章列表）
+最近：[一些网页版操作系统模拟器的网址收集](https://suntrise.github.io/2022/09/24/webos.html)
+[更多内容](https://suntrise.github.io/blogs.html)
 
+<br>
 
 ### 联系
 Github：[https://github.com/suntrise](https://github.com/suntrise)
@@ -32,13 +35,17 @@ Bilibili：[STR-BSOD](https://space.bilibili.com/451475014)
 
 知乎：[SUNTRISE](https://www.zhihu.com/people/suntrise)
 
-### [友情链接](https://suntrise.github.io/links.html)
+<br>
+
+### 友情链接
 
 zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
 
 [小众软件论坛](https://meta.appinn.net)
 
 [NokiaX](http://nokiax.ysepan.com/)
+
+[查看更多](https://suntrise.github.io/links.html)
 
 <br><br>
 
