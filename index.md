@@ -22,8 +22,9 @@ title:
 
 <br>
 
-### 博客（可点击顶栏上的“博客”已查看文章列表）
+### 博客（可点击顶栏上的“博客”查看文章列表）
 最近：[一些网页版操作系统模拟器的网址收集](https://suntrise.github.io/2022/09/24/webos.html)
+<br>
 [更多内容](https://suntrise.github.io/blogs.html)
 
 <br>
