@@ -40,7 +40,7 @@ Bilibili：[STR-BSOD](https://space.bilibili.com/451475014)
 
 ### 友情链接
 
-zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
+zhuwin：[https://zw.mb233.net](https://zw.mb233.net/)
 
 [小众软件论坛](https://meta.appinn.net)
 
