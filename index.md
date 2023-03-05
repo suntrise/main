@@ -12,13 +12,13 @@ title:
   <script type="text/javascript" src="title.js"></script>
   
 ### 项目：
-* [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault)
-* [伪本地化翻译器 Demo](https://suntrise.github.io/pseudo)
+* [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault){:target="_blank"}
+* [伪本地化翻译器 Demo](https://suntrise.github.io/pseudo){:target="_blank"}
 * 模拟一些 Windows 系统 OOBE 的最后部署阶段的加载动画（可以当成屏保）
 
-   [Windows 8 OOBE](https://suntrise.github.io/project/Win8OOBE.html) , [Windows 10 OOBE](https://suntrise.github.io/project/Win10OOBE.html)
-* [一个简易的随机数生成器](https://suntrise.github.io/suntrise/random.html)
-* [一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包](https://suntrise.github.io/suntrise/happydos.tgz) by [IAmREGE](https://github.com/IAmREGE)
+   [Windows 8 OOBE](https://suntrise.github.io/project/Win8OOBE.html){:target="_blank"} , [Windows 10 OOBE](https://suntrise.github.io/project/Win10OOBE.html)
+* [一个简易的随机数生成器](https://suntrise.github.io/suntrise/random.html){:target="_blank"}
+* [一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包](https://suntrise.github.io/suntrise/happydos.tgz){:target="_blank"} by [IAmREGE](https://github.com/IAmREGE){:target="_blank"}
 
 <br>
 
@@ -30,30 +30,30 @@ title:
 <br>
 
 ### 联系
-Github：[https://github.com/suntrise](https://github.com/suntrise)
+Github：[https://github.com/suntrise](https://github.com/suntrise){:target="_blank"}
 
-Bilibili：[STR-BSOD](https://space.bilibili.com/451475014)
+Bilibili：[STR-BSOD](https://space.bilibili.com/451475014){:target="_blank"}
 
-知乎：[SUNTRISE](https://www.zhihu.com/people/suntrise)
+知乎：[SUNTRISE](https://www.zhihu.com/people/suntrise){:target="_blank"}
 
 <br>
 
 ### 友情链接
 
-zhuwin：[https://zw.mb233.net](https://zw.mb233.net/)
+zhuwin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 
-[小众软件论坛](https://meta.appinn.net)
+[小众软件论坛](https://meta.appinn.net){:target="_blank"}
 
-[NokiaX](http://nokiax.ysepan.com/)
+[NokiaX](http://nokiax.ysepan.com/){:target="_blank"}
 
-[查看更多](https://suntrise.github.io/links.html)
+[查看更多](https://suntrise.github.io/links.html){:target="_blank"}
 
 <br><br>
 
-### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles)
+### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles){:target="_blank"}
 
 
-顶部金句来源于 [https://hitokoto.cn](https://hitokoto.cn)
+顶部金句来源于 [https://hitokoto.cn](https://hitokoto.cn){:target="_blank"}
 
 
-[![Page Views Count](https://badges.toozhao.com/badges/01GGFBWDY0MAKM9FJNVQGK5WDD/orange.svg)](https://badges.toozhao.com/stats/01GGFBWDY0MAKM9FJNVQGK5WDD "Get your own page views count badge on badges.toozhao.com")
+[![Page Views Count](https://badges.toozhao.com/badges/01GGFBWDY0MAKM9FJNVQGK5WDD/orange.svg)](https://badges.toozhao.com/stats/01GGFBWDY0MAKM9FJNVQGK5WDD "Get your own page views count badge on badges.toozhao.com"){:target="_blank"}
