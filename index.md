@@ -18,6 +18,7 @@ title:
 
    [Windows 8 OOBE](https://suntrise.github.io/project/Win8OOBE.html){:target="_blank"} , [Windows 10 OOBE](https://suntrise.github.io/project/Win10OOBE.html){:target="_blank"}
 * [一个简易的随机数生成器](https://suntrise.github.io/suntrise/random.html){:target="_blank"}
+* [密码博物馆（正在施工）](https://suntrise.github.io/pwd-museum){:target="_blank"}
 * [一个Linux看了觉得很正常，但是Windows和DOS看了会非常开心的压缩包](https://suntrise.github.io/suntrise/happydos.tgz){:target="_blank"} by [IAmREGE](https://github.com/IAmREGE){:target="_blank"}
 
 <br>
