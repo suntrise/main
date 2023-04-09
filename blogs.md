@@ -10,6 +10,3 @@ articles:
   show_info: true
   
 ---
-
-<br>
-<center><h3>不要太在意，太在意会开始害怕失去。</h3></center>
