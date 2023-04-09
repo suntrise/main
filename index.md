@@ -47,7 +47,7 @@ zhuwin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 
 <br>
 <center id="hitokoto">
-  <h4><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h4>
+  <h4><a href="#" target="_blank" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h4>
 </center>
 来源: [https://hitokoto.cn](https://hitokoto.cn){:target="_blank"}
   <script type="text/javascript" src="title.js"></script>
