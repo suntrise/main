@@ -4,12 +4,8 @@ title:
 #articles:
   #excerpt_type: html
 ---
-<center id="hitokoto">
-  <h2><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h2>
-  <h3 id="hitokoto_from"></h3>
-</center>
+  <h2>欢迎来到 Suntrise 的主页！</h2>
   <br>
-  <script type="text/javascript" src="title.js"></script>
   
 ### 项目：
 * [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault){:target="_blank"}
@@ -45,12 +41,16 @@ zhuwin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 
 [查看更多](https://suntrise.github.io/links.html){:target="_blank"}
 
-<br><br>
+<br>
 
 ### [磁贴模式（仿 Win8 开始屏幕）](https://suntrise.github.io/tiles){:target="_blank"}
 
 
-顶部金句来源于 [https://hitokoto.cn](https://hitokoto.cn){:target="_blank"}
-
+<center id="hitokoto">
+  <h3><a href="#" id="hitokoto_text" style="color:#000;text-shadow: 5px 5px 2.5px #bcd;">:D 获取中……</a></h3>
+  <h3 id="hitokoto_from"></h3>
+</center>
+来源: [https://hitokoto.cn](https://hitokoto.cn){:target="_blank"}
+  <script type="text/javascript" src="title.js"></script>
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GGFBWDY0MAKM9FJNVQGK5WDD/orange.svg)](https://badges.toozhao.com/stats/01GGFBWDY0MAKM9FJNVQGK5WDD "Get your own page views count badge on badges.toozhao.com"){:target="_blank"}
