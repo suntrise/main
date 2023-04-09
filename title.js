@@ -3,8 +3,8 @@
   xhr.onreadystatechange = function () {
     if (xhr.readyState === 4) {
       var data = JSON.parse(xhr.responseText);
-      var hitokoto = document.getElementById('hitokoto_text');
-      hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+      var hitolink = document.getElementById('hitokoto');
+      hitolink.href = 'https://hitokoto.cn/?uuid=' + data.uuid
       if(data.from_who == null){
         data.from_who = "";
       }
