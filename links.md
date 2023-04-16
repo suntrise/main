@@ -25,8 +25,13 @@ titles:
   # @end locale config
 ---
 
-zhuwin：[https://zw.mingbaitalk.cn](https://zw.mingbaitalk.cn)
+ZhuWin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 
-[小众软件论坛](https://meta.appinn.net)
+[小众软件论坛](https://meta.appinn.net){:target="_blank"}
 
-[NokiaX](http://nokiax.ysepan.com/)
+[NokiaX](http://nokiax.ysepan.com/){:target="_blank"}
+
+[BetaLab](https://wiki.betalab.top/%E9%A6%96%E9%A1%B5){:target="_blank"}
+
+[BetaHeritage](http://wiki.betaheritage.cc/index.php?title=%E9%A6%96%E9%A1%B5){:target="_blank"}
+
