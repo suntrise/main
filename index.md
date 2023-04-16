@@ -33,11 +33,15 @@ Bilibili：[STR-BSOD](https://space.bilibili.com/451475014){:target="_blank"}
 
 ### 友情链接
 
-zhuwin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
+ZhuWin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 
 [小众软件论坛](https://meta.appinn.net){:target="_blank"}
 
 [NokiaX](http://nokiax.ysepan.com/){:target="_blank"}
+
+[BetaLab](https://wiki.betalab.top/%E9%A6%96%E9%A1%B5){:target="_blank"}
+
+[http://wiki.betaheritage.cc/index.php?title=%E9%A6%96%E9%A1%B5](http://wiki.betaheritage.cc/index.php?title=%E9%A6%96%E9%A1%B5){:target="_blank"}
 
 [查看更多](https://suntrise.github.io/links.html){:target="_blank"}
 
@@ -52,4 +56,5 @@ zhuwin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 来源: [https://hitokoto.cn](https://hitokoto.cn){:target="_blank"}
   <script type="text/javascript" src="title.js"></script>
 
+<br>
 [![Page Views Count](https://badges.toozhao.com/badges/01GGFBWDY0MAKM9FJNVQGK5WDD/orange.svg)](https://badges.toozhao.com/stats/01GGFBWDY0MAKM9FJNVQGK5WDD "Get your own page views count badge on badges.toozhao.com"){:target="_blank"}
