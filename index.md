@@ -41,7 +41,7 @@ ZhuWin：[https://zw.mb233.net](https://zw.mb233.net/){:target="_blank"}
 
 [BetaLab](https://wiki.betalab.top/%E9%A6%96%E9%A1%B5){:target="_blank"}
 
-[http://wiki.betaheritage.cc/index.php?title=%E9%A6%96%E9%A1%B5](http://wiki.betaheritage.cc/index.php?title=%E9%A6%96%E9%A1%B5){:target="_blank"}
+[BetaHeritage](http://wiki.betaheritage.cc/index.php?title=%E9%A6%96%E9%A1%B5){:target="_blank"}
 
 [查看更多](https://suntrise.github.io/links.html){:target="_blank"}
 
