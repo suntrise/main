@@ -11,7 +11,7 @@ title:
 * [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault){:target="_blank"}
 * [伪本地化翻译器 Demo](https://suntrise.github.io/pseudo){:target="_blank"}
 * [模拟 Win8.1-11 系统 OOBE 的最后部署阶段的加载动画（可以当成屏保）](https://suntrise.github.io/project/OOBE){:target="_blank"}
-* [自动在语段的中英文间添加空格（测试阶段）](https://suntrise.github.io/project/addspace){:target="_blank"}
+* [自动在语段的中英文间添加空格](https://suntrise.github.io/project/addspace){:target="_blank"}
 
 <br>
 
