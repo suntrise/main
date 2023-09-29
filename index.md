@@ -4,8 +4,8 @@ title:
 #articles:
   #excerpt_type: html
 ---
-  <h2>欢迎来到 Suntrise 的主页！</h2>
-  <h3>（新网站测试中：[suntrise.github.io/new/](https://suntrise.github.io/new/)）</h3>
+## 欢迎来到 Suntrise 的主页！
+###（新网站测试中：[suntrise.github.io/new/](https://suntrise.github.io/new/)）
   <br>
   
 ### 项目：
