@@ -5,6 +5,7 @@ title:
   #excerpt_type: html
 ---
   <h2>欢迎来到 Suntrise 的主页！</h2>
+  <h3>（新网站测试中：[https://suntrise.github.io/new/](https://suntrise.github.io/new/)）</h3>
   <br>
   
 ### 项目：
@@ -29,7 +30,7 @@ title:
 ### 联系
 Github：[https://github.com/suntrise](https://github.com/suntrise){:target="_blank"}
 
-Bilibili：[STR-BSOD](https://space.bilibili.com/451475014){:target="_blank"}
+Bilibili：[未定义字符串STR](https://space.bilibili.com/451475014){:target="_blank"}
 
 知乎：[SUNTRISE](https://www.zhihu.com/people/suntrise){:target="_blank"}
 
