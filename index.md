@@ -4,9 +4,11 @@ title:
 #articles:
   #excerpt_type: html
 ---
-## 欢迎来到 Suntrise 的主页！
-###（新网站测试中：[suntrise.github.io/new/](https://suntrise.github.io/new/)）
-  <br>
+<h2> 欢迎来到 Suntrise 的主页！ </h2> 
+
+### （新网站测试中：[suntrise.github.io/new/](https://suntrise.github.io/new/)）
+
+<br>
   
 ### 项目：
 * [YesMyFault(蓝屏模拟器）](https://suntrise.github.io/yesmyfault){:target="_blank"}
